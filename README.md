@@ -1,6 +1,6 @@
 # ACM
 
- ACM，全称Ai-Chat-Miuix
+ ACM，全称Ai-Chat-Miuix。
  一个基于 Jetpack Compose 与 Miuix KMP 的 Android AI 聊天客户端。
 
 ---
