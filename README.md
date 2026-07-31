@@ -1,5 +1,6 @@
-# AIchat
+# ACM
 
+ ACM，全称Ai-Chat-Miuix
  一个基于 Jetpack Compose 与 Miuix KMP 的 Android AI 聊天客户端。
 
 ---
@@ -13,7 +14,7 @@
   - 自定义系统提示词（System Prompt）。
   - 可视化与 JSON 源上下文双模式管理，支持查看、校验及修改历史对话。
   - 历史消息轮数自由控制。
-**兼容 OpenAI 标准 API**：支持任意兼容 OpenAI 格式的 API 服务商（如 DeepSeek、OpenAI 等），具备智能 Base URL 识别与自动补全功能。
+**兼容 OpenAI 标准 API**：支持任意兼容 OpenAI 格式的 API 服务商（如 DeepSeek、OpenAI 等）。
 
 ---
 
